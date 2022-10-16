@@ -1,12 +1,11 @@
-![MasterHead](https://qph.fs.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=biswarup-bhunia&label=Profile%20views&color=0e75b6&style=flat" alt="biswarup-bhunia" /> </p>
 <h1 align="center">Hi Everyone👋, I'm Biswarup Bhunia</h1>
 <h3 align="center">A Passionate Full Stack Developer with hands-on experience in designing, developing projects. Adept at learning, unlearning, and relearning.</h3>
 <h1></h1>
 <p><img align="center" width="100%" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" alt="biswarup-bhunia" /></p>
 <h1></h1>
-<h3 align="center">A passionate Java Backend Developer from India</h3>
+ <img align="center" width="100%" src="https://readme-typing-svg.herokuapp.com/?lines=Java+Backend+Developer;Quick+learner;Self+Motivated&color=teal&center=true" />
 <h1></h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=biswarup-bhunia&label=Profile%20views&color=0e75b6&style=flat" alt="biswarup-bhunia" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=biswarup-bhunia" alt="biswarup-bhunia" /></a> </p>
 
