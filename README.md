@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Biswarup Bhunia</h1>
+![MasterHead](https://qph.fs.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13)
+<h1 align="center">Hi Everyone👋, I'm Biswarup Bhunia</h1>
 <h3 align="center">A Passionate Full Stack Developer with hands-on experience in designing, developing projects. Adept at learning, unlearning, and relearning.</h3>
 <h1></h1>
 <p><img align="center" width="100%" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" alt="biswarup-bhunia" /></p>
@@ -11,7 +12,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Java,mySQl,SpringBoot**
+- 🔭 I’m currently working on *my skills*
+
+- 🌱 I’m currently learning **Java,mySQl,SpringBoot at masai school**
 
 - 👨‍💻 All of my projects are available at [https://biswarup-bhunia.github.io/](https://biswarup-bhunia.github.io/)
 
@@ -34,3 +37,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=biswarup-bhunia&show_icons=true&locale=en" alt="biswarup-bhunia" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=biswarup-bhunia&" alt="biswarup-bhunia" /></p>
+
+<img src="https://activity-graph.herokuapp.com/graph?username=biswarup-bhunia&theme=xcode" height ="307"/>
