@@ -38,3 +38,10 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=biswarup-bhunia&" alt="biswarup-bhunia" /></p>
 
 <img src="https://activity-graph.herokuapp.com/graph?username=biswarup-bhunia&theme=xcode" height ="307"/>
+
+<a href=#><img src="contributions.svg"></a>
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/biswarup-bhunia/count.svg" />
+</p>
