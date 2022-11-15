@@ -6,7 +6,6 @@
 </p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=Eat-Code-Sleep-Repeat♻️&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=32"/>
-<img align="center" src="https://www.arkasoftwares.com/blog/wp-content/uploads/2021/01/header_banner-2.jpg" />
 <h1 align="center">Hi Everyone👋, I'm Biswarup Bhunia</h1>
 <h3 align="center">A Passionate Java Developer with hands-on experience in designing, developing projects. Adept at learning, unlearning, and relearning.</h3>
 <h1></h1>
