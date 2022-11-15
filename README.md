@@ -1,10 +1,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=biswarup-bhunia&label=Profile%20views&color=0e75b6&style=flat" alt="biswarup-bhunia" /> </p>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=Eat-Code-Sleep-Repeat♻️&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/biswarupbhunia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="biswarup" height="30" width="40" /></a>
 <a href="https://instagram.com/capt_your_smile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="capt_your_smile" height="30" width="40" /></a>
 </p>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=Eat-Code-Sleep-Repeat♻️&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+<img align="center" src="https://www.arkasoftwares.com/blog/wp-content/uploads/2021/01/header_banner-2.jpg" />
 <h1 align="center">Hi Everyone👋, I'm Biswarup Bhunia</h1>
 <h3 align="center">A Passionate Java Developer with hands-on experience in designing, developing projects. Adept at learning, unlearning, and relearning.</h3>
 <h1></h1>
