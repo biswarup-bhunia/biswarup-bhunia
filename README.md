@@ -10,11 +10,8 @@
 <h3 align="center">A Passionate Java Developer with hands-on experience in designing, developing projects. Adept at learning, unlearning, and relearning.</h3>
 <h1></h1>
 <p><img align="center" width="100%" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" alt="biswarup-bhunia" /></p>
-<h1></h1>
- <img align="center" width="100%" src="https://readme-typing-svg.herokuapp.com/?lines=Java+Backend+Developer;Quick+learner;Self+Motivated&color=teal&center=true" />
-<h1></h1>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+ <img align="center" width="100%" src="https://readme-typing-svg.herokuapp.com/?lines=Java+Backend+Developer;Quick+learner;Self+Motivated&color=teal&center=true" />
 
 - 🔭 I’m currently working on **my skills**
 
@@ -63,16 +60,26 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
 
-<h1></h1>
-<h3 align="left">GitHub Statistics</h3>
+## Trophy & Stats :
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=biswarup-bhunia" alt="biswarup-bhunia" /></a> </p>
+| [![trophy](https://github-profile-trophy.vercel.app/?username=biswarup-bhunia)](https://github.com/ryo-ma/github-profile-trophy) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biswarup-bhunia&layout=compact)](https://github.com/biswarup-bhunia/github-readme-stats) |
+| :---: | :---: |
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=biswarup-bhunia&show_icons=true&locale=en" alt="biswarup-bhunia" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=biswarup-bhunia&" alt="biswarup-bhunia" /></p>
+| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=biswarup-bhunia&theme=dark&show_icons=true&count_private=true) | [![GitHub Streak](https://streak-stats.demolab.com?user=biswarup-bhunia&theme=dark&border_radius=4)](https://git.io/streak-stats) |
+| :---: | :---: |
 
-<img src="https://activity-graph.herokuapp.com/graph?username=biswarup-bhunia&theme=xcode" height ="307"/>
 
-<img src="https://raw.githubusercontent.com/biswarup-bhunia/biswarup-bhunia/main/contribution.svg"/>
+<details>
+   <summary><b>:rocket: &nbsp;Github stats Detailed</b></summary>
+   </br>
+  
+<table><tr><td><img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=biswarup-bhunia&theme=2077"/></td><td>
+<img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=biswarup-bhunia&theme=2077"/></td></tr></table>
+<table><tr><td width="430"><img width="500"  height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=biswarup-bhunia&theme=2077"/></td>
+<td width="430"><img width="500" height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=biswarup-bhunia&theme=2077"/></td></tr></table>
 
+[![Biswarup's github activity graph](https://activity-graph.herokuapp.com/graph?username=biswarup-bhunia&theme=react-dark)](https://github.com/biswarup-bhunia/github-readme-activity-graph)  
+
+</br>
+</details>
