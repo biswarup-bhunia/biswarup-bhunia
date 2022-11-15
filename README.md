@@ -70,16 +70,4 @@
 | :---: | :---: |
 
 
-<details>
-   <summary><b>:rocket: &nbsp;Github stats Detailed</b></summary>
-   </br>
-  
-<table><tr><td><img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=biswarup-bhunia&theme=2077"/></td><td>
-<img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=biswarup-bhunia&theme=2077"/></td></tr></table>
-<table><tr><td width="430"><img width="500"  height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=biswarup-bhunia&theme=2077"/></td>
-<td width="430"><img width="500" height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=biswarup-bhunia&theme=2077"/></td></tr></table>
 
-[![Biswarup's github activity graph](https://activity-graph.herokuapp.com/graph?username=biswarup-bhunia&theme=react-dark)](https://github.com/biswarup-bhunia/github-readme-activity-graph)  
-
-</br>
-</details>
