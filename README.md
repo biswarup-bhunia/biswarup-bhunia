@@ -1,4 +1,9 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=biswarup-bhunia&label=Profile%20views&color=0e75b6&style=flat" alt="biswarup-bhunia" /> </p>
+<p align="left"> 
+ <img src="https://komarev.com/ghpvc/?username=biswarup-bhunia&label=Profile%20views&color=0e75b6&style=flat" alt="biswarup-bhunia" />
+ <a href="https://github.com/biswarup-bhunia?tab=followers">
+        <img src="https://img.shields.io/github/followers/biswarup-bhunia?label=Followers&style=social" alt="followers-count">
+ </a>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 
@@ -13,8 +18,14 @@
 
 <img width="1100px" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
-<h1 align="center">Hi Everyone👋, I'm Biswarup Bhunia</h1>
-<h3 align="center">A Passionate Java Developer with hands-on experience in designing, developing projects. Adept at learning, unlearning, and relearning.</h3>
+<h1 align="center">
+    Hi
+    <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">
+    I'm Biswarup Bhunia
+    <img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="35">
+</h1>
+
+<h3 align="center">A Passionate Java Backend Developer with hands-on experience in designing and developing projects.</h3>
 
 <img width="1100px" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
