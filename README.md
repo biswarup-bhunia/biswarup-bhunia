@@ -34,7 +34,7 @@
 
 - 💬 Ask me about **Java,SQL,JavaScript,Html,Css**
 
-- 📫 How to reach me **rup.bhunia1999@gmail.com**
+- 📫 Contact with me via an email **rup.bhunia1999@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Xbm24skQlt8_dtP9W0Xs9yhSB9bvgXOe/view?usp=sharing](https://drive.google.com/file/d/1Xbm24skQlt8_dtP9W0Xs9yhSB9bvgXOe/view?usp=sharing)
 
