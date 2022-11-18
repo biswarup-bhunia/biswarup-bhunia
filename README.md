@@ -1,3 +1,5 @@
+<img width="1100px" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+
 <p align="left"> 
  <img src="https://komarev.com/ghpvc/?username=biswarup-bhunia&label=Profile%20views&color=0e75b6&style=flat" alt="biswarup-bhunia" />
  <a href="https://github.com/biswarup-bhunia?tab=followers">
