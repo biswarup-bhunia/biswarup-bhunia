@@ -41,11 +41,11 @@
 
 - 🔭 I’m currently working on **my skill**
 
-- 🌱 I’m currently learning **Java,mySQl,SpringBoot at masai school**
+- 🌱 I’m currently learning **Java, mySQl, SpringBoot at masai school**
 
-- 👨‍💻 All of my projects are available at [https://biswarup-bhunia.github.io/](https://biswarup-bhunia.github.io/)
+- 👨‍💻 All of my projects are available at **[Here](https://github.com/biswarup-bhunia/All-Projects)**
 
-- 💬 Ask me about **Java,SQL,JavaScript,Html,Css**
+- 💬 Ask me about **Java, SQL, JavaScript, Html, Css**
 
 - 📫 Contact with me via an email **rup.bhunia1999@gmail.com**
 
