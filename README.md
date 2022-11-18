@@ -49,7 +49,7 @@
 
 - 📫 Contact with me via an email **rup.bhunia1999@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Xbm24skQlt8_dtP9W0Xs9yhSB9bvgXOe/view?usp=sharing](https://drive.google.com/file/d/1Xbm24skQlt8_dtP9W0Xs9yhSB9bvgXOe/view?usp=sharing)
+- 📄 Know about my experiences through **[Resume](https://drive.google.com/file/d/1Xbm24skQlt8_dtP9W0Xs9yhSB9bvgXOe/view?usp=sharing)**
 
 <img width="1100px" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
